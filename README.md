@@ -4,7 +4,7 @@ Small-Scale Spam Classification Project for fun!
 
 
 ## Dataset
->[Fake + Real News Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/)
+>[SMS Spam Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/)
 
 
 ## Results
